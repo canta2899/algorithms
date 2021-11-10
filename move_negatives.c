@@ -2,8 +2,6 @@
 #include <time.h>
 #define N 40
 
-using namespace std;
-
 /**
  *	Given e vector A that contains n positive integers and n negative integers
  *	modify A in order to let the n negative integers occupy the first n 

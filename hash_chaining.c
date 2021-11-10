@@ -192,7 +192,7 @@ int main(){
 
 	// Removing some nodes
 	if(removenode(854)) printf("Node 854 removed\n");
-	if(removenode(23)) printf("Node 19 removed\n");
+	if(removenode(23)) printf("Node 23 removed\n");
 
 	// searching for a node 
 	if(!(found = search(23)))

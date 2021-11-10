@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "include/red_black_tree.h"
+#include "red_black_tree.h"
 
 // Sentinel NIL 
 
